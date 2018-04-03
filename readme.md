@@ -1,11 +1,11 @@
-##STEPS
+## STEPS
 
-#####1> build jar 
+##### 1> build jar 
 execute below command to prepare the jar:
 
 'mvn clean package'
 
-#####2> get solutions
+##### 2> get solutions
 execute below command to get unwrapped solutions for each cube in separate files 
 
 'java -jar happycube-1.0-SNAPSHOT.jar' 
@@ -13,7 +13,7 @@ execute below command to get unwrapped solutions for each cube in separate files
 
 
 
-##Orientation of unfolded solution:: 
+## Orientation of unfolded solution:: 
 Pieces of unfolded cubes are arranged as
         
         (T)
